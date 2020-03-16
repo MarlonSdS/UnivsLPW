@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+#tit{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: 190%;
+}
+p{
+    font-size: 90%;
+}
+h1{
+    background-color: blue;
+    color: white;
+    font-size: 190%;
+}
+li{
+    font-size: 90%;
+}
+h2{
+    color: white;
+    background-color: black;
+    margin-right: 45%;
+    text-align: center;
+    font-size: 150%;
+}
+ol{
+    text-transform: uppercase;
+}
